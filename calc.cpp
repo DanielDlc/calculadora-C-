@@ -13,6 +13,6 @@ int main()
 		cout << numero << "*" << contador << "=" << numero * contador << endl;
 	}
 
-	system("PAUSE");
-	return 0;
+system("PAUSE");
+return 0;
 }
